@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praveen19-06/Praveen19-06/output/github-contribution-grid-snake-dark.svg" />
+	<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Praveen19-06/Praveen19-06/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!--
 **Praveen19-06/Praveen19-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
